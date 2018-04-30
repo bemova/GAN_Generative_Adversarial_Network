@@ -1,0 +1,5 @@
+dowload dataset from following link:
+
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/airplane.npy?_ga=2.114740807.-156252884.1524771201
+
+then, change the name of file to "ariplane.npy", and put it under data directory
